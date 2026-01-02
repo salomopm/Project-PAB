@@ -1,0 +1,33 @@
+
+
+CREATE TABLE public.administrasi_ar_5k (
+    id text,
+    geometry geometry(MultiPolygon, 4326),
+    ogc_fid integer,
+    objectid integer,
+    fcode text,
+    kdbbps text,
+    kdcbps text,
+    kdcpum text,
+    kdebps text,
+    kdepum text,
+    kdpbps text,
+    kdpkab text,
+    kdppum text,
+    luaswh double precision,
+    metadata text,
+    namobj text,
+    remark text,
+    srs_id text,
+    tipadm text,
+    wadmkc text,
+    wadmkd text,
+    wadmkk text,
+    wadmpr text,
+    wiadkc text,
+    wiadkd text,
+    wiadkk text,
+    wiadpr text,
+    shape_leng double precision,
+    shape_area double precision
+);
