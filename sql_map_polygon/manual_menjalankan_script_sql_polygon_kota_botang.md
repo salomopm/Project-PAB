@@ -1,7 +1,6 @@
 # Manual Menjalankan Script SQL PostGIS
 
 Dokumentasi ini menjelaskan **urutan dan cara menjalankan script SQL** untuk pembuatan dan konversi data **MultiPolygon Administrasi Kota Bontang**.  
-Dokumen ini ditujukan agar dapat langsung dibaca di repository **GitLab**.
 
 ---
 
